@@ -1,7 +1,7 @@
 # online-retail-analysis
 
 # Description:
-It's a detailed analysis of online retail purchases.
+It's a detailed analysis of online retail purchases which segment the customers based on purchasing behaviour using RFM analysis.
 
 Task Done:
   - EDA(Exploratory data analysis)
