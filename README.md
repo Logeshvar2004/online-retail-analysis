@@ -17,3 +17,4 @@ The RFM model is used to segment customers based on three key metrics:
 ## Project Structure
 - `eda.ipynb`: Jupyter Notebook containing the code for RFM analysis and customer segmentation.
 - `onlineretail.xlsx`: Sample dataset used for analysis.
+- `output.csv`: Output of RFM Analysis.
